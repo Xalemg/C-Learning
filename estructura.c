@@ -1,7 +1,6 @@
 
 #include <stdio.h>
-struct perro
-{
+struct perro{
     char nombre [30];
     int edadMeses;
     float peso;
